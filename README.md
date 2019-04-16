@@ -26,8 +26,8 @@ solutions of leetcode easy problems
 | 3            |[longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                                                          | [java]                            | easy|
 | 263             | [ugly number](https://leetcode.com/problems/ugly-number/)                                                          | [java]                             | easy|
 | 884             |[uncommon wordds from two sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)                                                          | [java]                            |  easy|
-| 929             | [unique email address] (https://leetcode.com/problems/unique-email-addresses/)                                                        |[java]                            |  easy|
-|804            | [unique morse code words]  (https://leetcode.com/problems/unique-morse-code-words/)                                                        |[java]                            |  easy|
+| 929             | [unique email address](https://leetcode.com/problems/unique-email-addresses/)                                                        |[java]                            |  easy|
+|804            | [unique morse code words](https://leetcode.com/problems/unique-morse-code-words/)                                                        |[java]                            |  easy|
 | 242            |[valid anagram](https://leetcode.com/problems/valid-anagram/)                                                          | [java]                            |  easy|
 | 125             | [valid palindrome](https://leetcode.com/problems/valid-palindrome/)                                                         |[java]                             |  easy|
 |630             | [valid palindrome](https://leetcode.com/problems/valid-palindrome-ii/)                                                         |[java]                            | easy|
@@ -35,8 +35,28 @@ solutions of leetcode easy problems
 | 953            |[verifying an alien dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)                                                        | [java]                             |  easy|
 | 290             | [word pattern](https://leetcode.com/problems/word-pattern/)                                                         | [java]                            |  easy|
 | 914             | [ X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)                                                         | [java]                            |  easy|
-| #             | Title                                                          | [java]                            |  easy|
-| #             | Title                                                          | [java]                            |  easy|
-| #             | Title                                                          | [java]                             |  easy|
-| #             | Title                                                          |[java]                           |  easy|
-| #             | Title                                                          |[java]                            |  easy|
+| 206             |[reverse link list](https://leetcode.com/problems/reverse-linked-list/)                                                         | [java]                            |  easy|
+| 917             | [reverse only letters](https://leetcode.com/problems/reverse-only-letters/)                                                          | [java]                            |  easy|
+| 344            |[reverse string](https://leetcode.com/problems/reverse-string/)                                                         | [java]                             |  easy|
+| 345            |[reverse vowels of a string](https://leetcode.com/problems/reverse-vowels-of-a-string/)                                                        |[java]                           |  easy|
+| 557             | [ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)                                                         |[java]                            |  easy|
+| 657             | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)                                                          | java                            | easy|
+| 189             |[rotate array](https://leetcode.com/problems/rotate-array/)                                                       | java                            | easy|
+| 796             | [rotate string](https://leetcode.com/problems/rotate-string/)                                                          | java                            |easy|
+| 788            | [Rotated Digits](https://leetcode.com/problems/rotated-digits/)                                                         | java                            | easy|
+| 176             | [Second Highest Salary
+](https://leetcode.com/problems/second-highest-salary/)                                                          | java                            |easy|
+| 728             |  [ Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)                                                          | java                            | easy|
+| 645             |  [Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                                         |java                            | easy|
+| 581             |  [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)                                                          |java                            |easy|
+| 136            | [ Single Number](https://leetcode.com/problems/single-number/)                                                          | java                           |easy|
+| #             |  []()                                                         | java                            | easy|
+
+| #             |  []()                                                        | java                           | easy|
+| #             |  []()                                                          | java                            | easy|
+| #             |  []()                                                          | java                           |easy|
+| #             | []()                                                          |java                            | easy|
+| #             |  []()                                                         |java                           |easy|
+| #             |  []()                                                         | java                            | easy|
+| #             |  []()                                                       | java                            | easy|
+| #             |  []()                                                         |java                           | easy|
