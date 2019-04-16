@@ -44,8 +44,7 @@ solutions of leetcode easy problems
 | 189             |[rotate array](https://leetcode.com/problems/rotate-array/)                                                       | java                            | easy|
 | 796             | [rotate string](https://leetcode.com/problems/rotate-string/)                                                          | java                            |easy|
 | 788            | [Rotated Digits](https://leetcode.com/problems/rotated-digits/)                                                         | java                            | easy|
-| 176             | [Second Highest Salary
-](https://leetcode.com/problems/second-highest-salary/)                                                          | java                            |easy|
+| 176             | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)                                                          | java                            |easy|
 | 728             |  [ Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)                                                          | java                            | easy|
 | 645             |  [Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                                         |java                            | easy|
 | 581             |  [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)                                                          |java                            |easy|
