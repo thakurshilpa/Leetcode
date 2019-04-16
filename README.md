@@ -44,18 +44,9 @@ solutions of leetcode easy problems
 | 189             |[rotate array](https://leetcode.com/problems/rotate-array/)                                                       | [java](https://github.com/thakurshilpa/Leetcode/blob/master/java/rotate%20string.java)                           | easy|
 | 796             | [rotate string](https://leetcode.com/problems/rotate-string/)                                                          | java                            |easy|
 | 788            | [Rotated Digits](https://leetcode.com/problems/rotated-digits/)                                                         | java                            | easy|
-| 176             | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)                                                          | java                            |easy|
-| 728             |  [ Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)                                                          | java                            | easy|
-| 645             |  [Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                                         |java                            | easy|
-| 581             |  [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)                                                          |java                            |easy|
-| 136            | [ Single Number](https://leetcode.com/problems/single-number/)                                                          | java                           |easy|
-| #             |  []()                                                         | java                            | easy|
+| 176             | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)                                                          | [java](https://github.com/thakurshilpa/Leetcode/blob/master/java/Second%20Highest%20Salary.java)                            |easy|
+| 728             |  [ Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)                                                          | [java](https://github.com/thakurshilpa/Leetcode/blob/master/java/Self%20Dividing%20Numbers.java)                            | easy|
+| 645             |  [Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                                         |[java](https://github.com/thakurshilpa/Leetcode/blob/master/java/Set%20Mismatch.java)                            | easy|
+| 581             |  [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)                                                          |[java](https://github.com/thakurshilpa/Leetcode/blob/master/java/Shortest%20Unsorted%20Continuous%20Subarray.java)                            |easy|
+| 136            | [ Single Number](https://leetcode.com/problems/single-number/)                                                          | [java](https://github.com/thakurshilpa/Leetcode/blob/master/java/Single%20number.java)                           |easy|
 
-| #             |  []()                                                        | java                           | easy|
-| #             |  []()                                                          | java                            | easy|
-| #             |  []()                                                          | java                           |easy|
-| #             | []()                                                          |java                            | easy|
-| #             |  []()                                                         |java                           |easy|
-| #             |  []()                                                         | java                            | easy|
-| #             |  []()                                                       | java                            | easy|
-| #             |  []()                                                         |java                           | easy|
